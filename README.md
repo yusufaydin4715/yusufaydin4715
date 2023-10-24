@@ -1,8 +1,8 @@
 
-- 🔭 Merhaba ben Yusuf AYDIN , web geliştirme projeleri üzerine çalışmaktayım.
-- 🌱 Şu anda React Frond-end konusunda kendimi geliştirmekteyim.
-- 👯 Açık kaynak projeleri veya web geliştirme konularında işbirliği yapmaktan memnuniyet duyarım.
-- 🤔 Animasyonlar konusunda daha fazla bilgi edinmek istiyorum, önerileriniz var mı?
-- 📫 Bana yusufaydin4715@gmail.com e-mail adresinden ulaşabilirsiniz.
+🔭 Hello, I am Yusuf AYDIN, I work on web development projects.
+🌱 I am currently improving myself on React Frond-end.
+👯 I'd be happy to collaborate on open source projects or web development.
+🤔 I want to learn more about animations, do you have any suggestions?
+📫 You can reach me at yusufaydin4715@gmail.com.
 
 
